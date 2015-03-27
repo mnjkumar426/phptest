@@ -1,0 +1,14 @@
+02-19-2015 @ 06:15:30 - Unable to download GeoIP Database: Failed to connect to geolite.maxmind.com port 80: Timed out
+02-19-2015 @ 06:15:49 - Unable to download GeoIP Database: Recv failure: Connection was reset
+02-19-2015 @ 06:23:10 - Unable to download GeoIP Database: Failed to connect to geolite.maxmind.com port 80: Host unreachable
+02-19-2015 @ 07:39:04 - Unable to download GeoIP Database: Recv failure: Connection was reset
+03-09-2015 @ 09:25:15 - Unable to download GeoIP Database: Could not resolve host: geolite.maxmind.com
+03-09-2015 @ 09:25:24 - Unable to download GeoIP Database: Could not resolve host: geolite.maxmind.com
+03-09-2015 @ 09:26:07 - Unable to download GeoIP Database: Could not resolve host: geolite.maxmind.com
+03-09-2015 @ 09:40:32 - Unable to download GeoIP Database: Could not resolve host: geolite.maxmind.com
+03-09-2015 @ 09:42:13 - Unable to download GeoIP Database: Could not resolve host: geolite.maxmind.com
+03-09-2015 @ 09:43:11 - Unable to download GeoIP Database: Could not resolve host: geolite.maxmind.com
+03-09-2015 @ 09:43:29 - Unable to download GeoIP Database: Could not resolve host: geolite.maxmind.com
+03-09-2015 @ 09:43:43 - Unable to download GeoIP Database: Could not resolve host: geolite.maxmind.com
+03-09-2015 @ 09:43:51 - Unable to download GeoIP Database: Could not resolve host: geolite.maxmind.com
+03-09-2015 @ 09:45:19 - Unable to download GeoIP Database: Could not resolve host: geolite.maxmind.com
